@@ -14,7 +14,7 @@
 ```php
 <?php
 
-namespace AshBaker;
+namespace Yuki2811;
 
 class About extends Me
 {
