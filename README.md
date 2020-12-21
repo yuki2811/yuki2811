@@ -41,6 +41,18 @@ class About extends Me
             Piano::class,
         ];
     }
+    
+    public function contactMe(): array
+    {
+        $facebook = "https://www.facebook.com/hongnguyenvan1998/",
+        $gmail = "ngvhong1998@gmail.com",
+        $skype = "live:ngvhong1998"
+        return [
+            $facebook,
+            $Gmail,
+            $skype,
+        ];
+    }
 
     public function getFutureGoal(): string
     {
