@@ -1,7 +1,7 @@
 
 
 
-![yuki2811's github stats](https://github-readme-stats.vercel.app/api?username=yuki2811&show_icons=true&theme=radical)
+![yuki2811's github stats](https://github-readme-stats.vercel.app/api?username=yuki2811&show_icons=true)
 
 ```php
 <?php
