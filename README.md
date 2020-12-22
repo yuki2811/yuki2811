@@ -3,7 +3,6 @@
 
 ![yuki2811's github stats](https://github-readme-stats.vercel.app/api?username=yuki2811&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki2811)](https://github.com/yuki2811/github-readme-stats)
-[![yuki2811's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuki2811)](https://github.com/yuki2811/github-readme-stats)
 ```php
 <?php
 
