@@ -26,6 +26,9 @@ class About extends Me
             Laravel::class,
             Vuejs::class,
             MySql::class,
+            MongoDB::class,
+            Reactjs::class,
+            Electronjs::class
         ];
     }
 
@@ -47,7 +50,7 @@ class About extends Me
         $skype = "live:ngvhong1998"
         return [
             $facebook,
-            $Gmail,
+            $gmail,
             $skype,
         ];
     }
